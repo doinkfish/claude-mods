@@ -1,0 +1,14 @@
+{
+  "name": "claude-mods",
+  "owner": {
+    "name": "doinkfish"
+  },
+  "description": "Mods for Claude Code: panels, bands and commands that fit how I work",
+  "plugins": [
+    {
+      "name": "token-meter",
+      "source": "./token-meter",
+      "description": "Shows tokens, context fill and cost for the current session"
+    }
+  ]
+}

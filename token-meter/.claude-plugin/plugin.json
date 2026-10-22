@@ -1,0 +1,8 @@
+{
+  "name": "token-meter",
+  "version": "0.2.0",
+  "description": "Shows tokens, context fill and cost for the current session",
+  "author": { "name": "doinkfish" },
+  "license": "MIT",
+  "types": "./types/index.d.ts"
+}
